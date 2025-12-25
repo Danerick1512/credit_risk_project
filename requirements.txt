@@ -1,0 +1,11 @@
+numpy>=1.24
+pandas>=1.5
+scikit-learn>=1.2
+matplotlib>=3.6
+seaborn>=0.12
+streamlit>=1.30
+joblib>=1.2
+weasyprint>=58.0
+pdfkit>=1.0
+reportlab>=4.0
+plotly>=5.15

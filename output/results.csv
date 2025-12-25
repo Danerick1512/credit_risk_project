@@ -1,0 +1,5 @@
+model,accuracy,roc_auc,precision,recall,with_fuzzy
+logistic,1.0,,1.0,1.0,False
+random,1.0,,1.0,1.0,False
+logistic,1.0,,1.0,1.0,True
+random,1.0,,1.0,1.0,True

@@ -1,0 +1,52 @@
+Id,Age,Sex,Job,Housing,Saving accounts,Checking account,Credit amount,Duration,Purpose
+0,67,male,2,own,NA,little,1169,6,radio/TV
+1,22,female,2,own,little,moderate,5951,48,radio/TV
+2,49,male,1,own,little,NA,2096,12,education
+3,45,male,2,free,little,little,7882,42,furniture/equipment
+4,53,male,2,free,little,little,4870,24,car
+5,35,male,1,free,NA,NA,9055,36,education
+6,53,male,2,own,quite rich,NA,2835,24,furniture/equipment
+7,35,male,3,rent,little,moderate,6948,36,car
+8,61,male,1,own,rich,NA,3059,12,radio/TV
+9,28,male,3,own,little,moderate,5234,30,car
+10,25,female,2,rent,little,moderate,1295,12,car
+11,24,female,2,rent,little,little,4308,48,business
+12,22,female,2,own,little,moderate,1567,12,radio/TV
+13,60,male,1,own,little,little,1199,24,car
+14,28,female,2,rent,little,little,1403,15,car
+15,32,female,1,own,moderate,little,1282,24,radio/TV
+16,53,male,2,own,NA,NA,2424,24,radio/TV
+17,25,male,2,own,NA,little,8072,30,business
+18,44,female,3,free,little,moderate,12579,24,car
+19,31,male,2,own,quite rich,NA,3430,24,radio/TV
+20,48,male,2,own,little,NA,2134,9,car
+21,44,male,2,rent,quite rich,little,2647,6,radio/TV
+22,48,male,1,rent,little,little,2241,10,car
+23,44,male,2,own,moderate,moderate,1804,12,car
+24,26,male,2,own,NA,NA,2069,10,furniture/equipment
+25,36,male,1,own,little,little,1374,6,furniture/equipment
+26,39,male,1,own,little,NA,426,6,radio/TV
+27,42,female,2,rent,rich,rich,409,12,radio/TV
+28,34,male,2,own,little,moderate,2415,7,radio/TV
+29,63,male,2,own,little,little,6836,60,business
+30,36,male,2,own,rich,moderate,1913,18,business
+31,27,male,2,own,little,little,4020,24,furniture/equipment
+32,30,male,2,own,moderate,moderate,5866,18,car
+33,57,male,1,rent,NA,NA,1264,12,business
+34,33,female,3,own,little,rich,1474,12,furniture/equipment
+35,25,male,1,own,little,moderate,4746,45,radio/TV
+36,31,male,2,free,little,NA,6110,48,education
+37,37,male,2,own,little,rich,2100,18,radio/TV
+38,37,male,2,own,little,rich,1225,10,domestic appliances
+39,24,male,2,own,little,moderate,458,9,radio/TV
+40,30,male,3,own,quite rich,NA,2333,30,radio/TV
+41,26,male,2,own,quite rich,moderate,1158,12,radio/TV
+42,44,male,1,own,little,moderate,6204,18,repairs
+43,24,male,2,rent,moderate,little,6187,30,car
+44,58,female,1,free,little,little,6143,48,car
+45,35,female,3,own,little,NA,1393,11,car
+46,39,male,2,own,quite rich,NA,2299,36,radio/TV
+47,23,female,0,rent,quite rich,little,1352,6,car
+48,39,male,1,own,little,NA,7228,11,car
+49,28,female,2,own,moderate,NA,2073,12,radio/TV
+50,29,male,1,own,NA,moderate,2333,24,furniture/equipment

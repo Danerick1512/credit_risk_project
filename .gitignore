@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+dist/
+.eggs/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter
+.ipynb_checkpoints
+
+# Virtualenv
+.venv/
+.env
+
+# VSCode
+.vscode/
+
+# Byte-compiled / logs
+*.log
+
+# Model and outputs (optional: you can track models if desired)
+output/models/
+output/*.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
